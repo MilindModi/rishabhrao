@@ -1,6 +1,8 @@
 ### Hi there, I'm [Rishabh Rao][website] 👋
 [![Website](https://img.shields.io/website?label=rishabhrao.tk&style=for-the-badge&url=https%3A%2F%2Frishabhrao.tk)](https://rishabhrao.tk)
 
+[![Codewars](https://www.codewars.com/users/rishabhrao/badges/large)](https://www.codewars.com/users/rishabhrao/)
+
 ## I'm a Student 📚, Web Developer 💻 and Programmer 📱
 
 I have been Programming since I was 13 years old. I can develop Custom Roms for android, Build apps for **Android** and **Windows** and I know languages like **Java**, **Python**, **Javascript** very well. I can also design secure, fast and responsive websites with **ReactJS** 🔥 and make fluid Mobile Apps with **React Native** 🤩
